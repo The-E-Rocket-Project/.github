@@ -2,6 +2,7 @@
 
 The E-Rocket is an experimental vehicle to serve as a low-cost and low-risk testbed for Guidance, Control & Navigation (GNC) algorithms for VTOL thrust vectoring vehicles. 
 
+![E-Rocket-Photo](Images/e_rocket_photo.jpeg)
 
 ## Table of Contents
 
