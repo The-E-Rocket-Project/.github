@@ -46,10 +46,18 @@ The authors would like to acknowledge everyone at the DSOR lab of the Institute 
 ## Acknowledgemnts
 
 <p align="center">
-  <img src="Images/IST_logo.png" width="200" alt="Image 1"/>
-  <img src="Images/IDMEC_PNG.png" width="200" alt="Image 2"/>
-  <img src="Images/Logo-ISR.png" width="200" alt="Image 3"/>
-  <img src="Images/2022_FCT_Logo_B_horizontal_preto.png" width="200" alt="Image 4"/>
+  <a href="https://www.ist.utl.pt/" target="_blank">
+    <img src="Images/IST_logo.png" width="200" alt="IST Logo" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://www.idmec.tecnico.ulisboa.pt/" target="_blank">
+    <img src="Images/IDMEC_PNG.png" width="200" alt="IDMEC Logo" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://isr.tecnico.ulisboa.pt/" target="_blank">
+    <img src="Images/Logo-ISR.png" width="200" alt="ISR Logo" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://www.fct.pt/" target="_blank">
+    <img src="Images/2022_FCT_Logo_B_horizontal_preto.png" width="200" alt="FCT Logo"/>
+  </a>
 </p>
 
 ## License
