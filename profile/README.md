@@ -45,7 +45,7 @@ The authors would like to acknowledge everyone at the DSOR lab of the Institute 
 
 ## Acknowledgemnts
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 100px; flex-wrap: wrap; margin: 40px 0;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; column-gap: 100px; row-gap: 40px; margin: 40px 0;">
   <a href="https://www.ist.utl.pt/" target="_blank">
     <img src="Images/IST_logo.png" width="120" alt="IST Logo"/>
   </a>
