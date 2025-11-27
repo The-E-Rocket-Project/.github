@@ -12,7 +12,7 @@ The E-Rocket is an experimental vehicle to serve as a low-cost and low-risk test
 - [Getting Started](#getting-started)
 - [Publications and Citation](#publications-and-citation)
 - [Credits](#Credits)
-- [Sponsors](#sponsors)
+- [Acknowledgements](#Acknowledgements)
 - [License](#license)
 
   
@@ -43,7 +43,14 @@ Main developer team:
 
 The authors would like to acknowledge everyone at the DSOR lab of the Institute for Systems and Robotics (ISR -Lisboa) for their valuable insights and support throughout the development of this project. A special thank you goes to [Marcelo Jacinto](https://scholar.google.com/citations?user=tVPo_z0AAAAJ&hl=en) who shared with us all the knowledge he acquired while developing his own project [Pegasus Research](https://github.com/PegasusResearch).
 
-## Sponsors
+## Acknowledgemnts
+
+<p align="center">
+  <img src="Images/IST_logo.png" width="200" alt="Image 1"/>
+  <img src="Images/IDMEC_PNG.png" width="200" alt="Image 2"/>
+  <img src="Images/Logo-ISR.png" width="200" alt="Image 3"/>
+  <img src="Images/2022_FCT_Logo_B_horizontal_preto.png" width="200" alt="Image 4"/>
+</p>
 
 ## License
 
