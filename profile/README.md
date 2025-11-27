@@ -11,7 +11,7 @@ The E-Rocket is an experimental vehicle to serve as a low-cost and low-risk test
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Publications and Citation](#publications-and-citation)
-- [Contributing](#contributing)
+- [Contributing](#Credits)
 - [Sponsors](#sponsors)
 - [License](#license)
 
@@ -32,7 +32,7 @@ To do.
 
 - André Fonte - Integrated Nonlinear Control and Guidance System for an E-Rocket, 2025. Supervised by Prof Paulo Oliveira and Pedro Santos.
 
-## Contributing
+## Credits
 
 Main developer team:
 
