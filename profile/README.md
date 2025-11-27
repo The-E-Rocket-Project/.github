@@ -45,20 +45,20 @@ The authors would like to acknowledge everyone at the DSOR lab of the Institute 
 
 ## Acknowledgemnts
 
-<p style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 5vw;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 100px; flex-wrap: wrap; margin: 40px 0;">
   <a href="https://www.ist.utl.pt/" target="_blank">
-    <img src="Images/IST_logo.png" style="max-width: 150px; width: 20vw;" alt="IST Logo"/>
+    <img src="Images/IST_logo.png" width="120" alt="IST Logo"/>
   </a>
   <a href="https://www.idmec.tecnico.ulisboa.pt/" target="_blank">
-    <img src="Images/IDMEC_PNG.png" style="max-width: 150px; width: 20vw;" alt="IDMEC Logo"/>
+    <img src="Images/IDMEC_PNG.png" width="120" alt="IDMEC Logo"/>
   </a>
   <a href="https://isr.tecnico.ulisboa.pt/" target="_blank">
-    <img src="Images/Logo-ISR.png" style="max-width: 150px; width: 20vw;" alt="ISR Logo"/>
+    <img src="Images/Logo-ISR.png" width="120" alt="ISR Logo"/>
   </a>
   <a href="https://www.fct.pt/" target="_blank">
-    <img src="Images/2022_FCT_Logo_B_horizontal_preto.png" style="max-width: 150px; width: 20vw;" alt="FCT Logo"/>
+    <img src="Images/2022_FCT_Logo_B_horizontal_preto.png" width="120" alt="FCT Logo"/>
   </a>
-</p>
+</div>
 
 ## License
 
