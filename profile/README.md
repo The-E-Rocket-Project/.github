@@ -48,13 +48,13 @@ The authors would like to acknowledge everyone at the DSOR lab of the Institute 
 <p align="center">
   <a href="https://www.ist.utl.pt/" target="_blank">
     <img src="Images/IST_logo.png" width="120" alt="IST Logo"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.idmec.tecnico.ulisboa.pt/" target="_blank">
     <img src="Images/IDMEC_PNG.png" width="120" alt="IDMEC Logo"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://isr.tecnico.ulisboa.pt/" target="_blank">
     <img src="Images/Logo-ISR.png" width="120" alt="ISR Logo"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.fct.pt/" target="_blank">
     <img src="Images/2022_FCT_Logo_B_horizontal_preto.png" width="120" alt="FCT Logo"/>
   </a>
