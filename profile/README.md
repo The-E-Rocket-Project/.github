@@ -24,7 +24,11 @@ To do.
 
 ## Publications and Citation
 
+### Master Thesis
 
+- [Pedro Martins](https://github.com/PedromcaMartins) - A PX4-ROS 2 Avionics Architecture for the E-Rocket Thrust Vector Control and GNC Platform, 2025. Supervised by Prof. Paulo Oliveira and Pedro Santos.
+
+- André Fonte - Integrated Nonlinear Control and Guidance System for an E-Rocket, 2025. Supervised by Prof Paulo Oliveira and Pedro Santos.
 
 ## Contributing
 
