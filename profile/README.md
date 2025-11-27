@@ -8,7 +8,7 @@ The E-Rocket is an experimental vehicle to serve as a low-cost and low-risk test
 
 - [About](#about)
 - [Getting Started](#getting-started)
-- [Publications and Citation](#publications)
+- [Publications and Citation](#publications-and-citation)
 - [Contributing](#contributing)
 - [Sponsors](#sponsors)
 - [License](#license)
