@@ -1,6 +1,20 @@
 ## The E-Rocket project
 
-The E-Rocket is an experimental vehicle to serve as a low-cost and low-risk testbed for Guidance, Control & Navigation (GNC) algorithms for thrust vectoring vehicles. Developed at Instituto Superior Técnico (IST) from the University of Lisbon in the scope of Pedro Santos PhD thesis, under the supervision of Professor Paulo Oliveira. The first version of the prototype, including mechanical design, avionics hardware and software developement, and preliminary GNC algorithms, lead to the conclusion of two MSc thesis, by André Fonte and Pedro Martins.
+The E-Rocket is an experimental vehicle to serve as a low-cost and low-risk testbed for Guidance, Control & Navigation (GNC) algorithms for thrust vectoring vehicles. 
+
+
+## Table of Contents
+
+- [About](#about)
+- [Projects](#projects)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+
+  
+## About
+
+Developed at Instituto Superior Técnico (IST) from the University of Lisbon in the scope of Pedro Santos PhD thesis, under the supervision of Professor Paulo Oliveira. The first version of the prototype, including mechanical design, avionics hardware and software developement, and preliminary GNC algorithms, lead to the conclusion of two MSc thesis, by André Fonte and Pedro Martins.
 
 <!--
 
