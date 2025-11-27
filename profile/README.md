@@ -16,6 +16,20 @@ The E-Rocket is an experimental vehicle to serve as a low-cost and low-risk test
 
 Developed at Instituto Superior Técnico (IST) from the University of Lisbon in the scope of Pedro Santos PhD thesis, under the supervision of Professor Paulo Oliveira. The first version of the prototype, including mechanical design, avionics hardware and software developement, and preliminary GNC algorithms, lead to the conclusion of two MSc thesis, by André Fonte and Pedro Martins.
 
+# Contributing
+
+Main developer team:
+
+- Pedro Santos
+- Pedro Martins
+- André Fonte
+- Paulo Oliveira
+
+
+## License
+
+To do.
+
 <!--
 
 **Here are some ideas to get you started:**
