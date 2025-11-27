@@ -39,7 +39,7 @@ Main developer team:
 - André Fonte
 - [Paulo Oliveira](https://scholar.google.com/citations?hl=pt-PT&user=V97jzbwAAAAJ&view_op=list_works&sortby=pubdate)
 
-The authors wo
+The authors would like to acknowledge everyone at the DSOR lab of the Institute for Systems and Robotics (ISR -Lisboa) for their valuable insights and support throughout the development of this project. A special thank you goes to [Marcelo Jacinto](https://scholar.google.com/citations?user=tVPo_z0AAAAJ&hl=en) who shared with us all the knowledge he acquired while developing his own project [Pegasus Research](https://github.com/PegasusResearch).
 
 ## Sponsors
 
