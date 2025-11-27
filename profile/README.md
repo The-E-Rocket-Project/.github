@@ -13,7 +13,7 @@ The E-Rocket is an experimental vehicle to serve as a low-cost and low-risk test
 - [Publications and Citation](#publications-and-citation)
 - [Credits](#Credits)
 - [Acknowledgements](#Acknowledgements)
-- [License](#license)
+
 
   
 ## About
@@ -45,6 +45,11 @@ The authors would like to acknowledge everyone at the DSOR lab of the Institute 
 
 ## Acknowledgemnts
 
+
+The authors gratefully acknowledge Fundação para a Ciência e Tecnologia (FCT) for its financial support via LAETA (project UID/50022/2025), and the Institute for Systems and Robotics (ISR - Lisboa) for providing access to their facilities.
+The work developed by Pedro Santos was supported by a Ph.D. grant funded by FCT.
+
+
 <p align="center">
   <a href="https://www.ist.utl.pt/" target="_blank">
     <img src="Images/IST_logo.png" width="120" alt="IST Logo"/>
@@ -60,9 +65,6 @@ The authors would like to acknowledge everyone at the DSOR lab of the Institute 
   </a>
 </p>
 
-## License
-
-To do.
 
 <!--
 
