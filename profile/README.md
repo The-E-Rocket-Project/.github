@@ -1,4 +1,6 @@
-## Hi there 👋
+## The E-Rocket project
+
+The E-Rocket s a thrust vectoring electric VTOL testbed for low-cost GNC testing, developed at Técnico Lisboa (IST) from the University of Lisbon.
 
 <!--
 
