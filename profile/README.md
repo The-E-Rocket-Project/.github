@@ -26,6 +26,9 @@ To do.
 
 ## Publications and Citation
 
+### Article describing the platform
+
+"[The E-Rocket: Low-cost Testbed for TVC Rocket GNC Validation](https://www.arxiv.org/abs/2512.06535)" - Pedro Santos, André Fonte, Pedro Martins, and Paulo Oliveira. 
 
 ### Ph.D. Thesis
 
