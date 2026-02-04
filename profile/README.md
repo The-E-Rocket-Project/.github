@@ -35,7 +35,7 @@ To do.
 
 - [Pedro Martins](https://github.com/PedromcaMartins) - A PX4-ROS 2 Avionics Architecture for the E-Rocket Thrust Vector Control and GNC Platform, 2025. Supervised by Prof. Paulo Oliveira and Pedro Santos.
 
-- André Fonte - Integrated Nonlinear Control and Guidance System for an E-Rocket, 2025. Supervised by Prof Paulo Oliveira and Pedro Santos.
+- [André Fonte](https://scholar.google.com/citations?user=jJ83ojUAAAAJ&hl) - Integrated Nonlinear Control and Guidance System for an E-Rocket, 2025. Supervised by Prof Paulo Oliveira and Pedro Santos.
 
 ## Credits
 
@@ -43,7 +43,7 @@ Main developer team:
 
 - [Pedro Santos](https://scholar.google.com/citations?user=HOhIHJAAAAAJ&hl=pt-PT)
 - [Pedro Martins](https://github.com/PedromcaMartins)
-- André Fonte
+- [André Fonte](https://scholar.google.com/citations?user=jJ83ojUAAAAJ&hl)
 - [Paulo Oliveira](https://scholar.google.com/citations?hl=pt-PT&user=V97jzbwAAAAJ&view_op=list_works&sortby=pubdate)
 
 The authors would like to thank everyone at the DSOR lab of the Institute for Systems and Robotics (ISR -Lisboa) for their valuable insights and support throughout the development of this project. A special thank you goes to [Marcelo Jacinto](https://scholar.google.com/citations?user=tVPo_z0AAAAJ&hl=en) who shared with us all the knowledge he acquired while developing his own project [Pegasus Research](https://github.com/PegasusResearch).
